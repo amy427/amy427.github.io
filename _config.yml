@@ -1,10 +1,11 @@
 title: 我的自动化工具实验室
 description: 记录我用 Python 等语言写的小工具、脚本和自动化实践
-theme: jekyll-theme-minimal
+theme: minima
 
-# 你的 GitHub 用户名
+url: "https://amy427.github.io"
 github_username: amy427
 
-# 以后可以按需要再加.：
-# url: "https://your-username.github.io"
-# baseurl: ""
+# 顶部导航栏要显示的页面（后面会创建这两个）
+header_pages:
+  - tools.md
+  - about.md
