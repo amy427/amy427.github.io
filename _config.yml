@@ -1,0 +1,10 @@
+title: 我的自动化工具实验室
+description: 记录我用 Python 等语言写的小工具、脚本和自动化实践
+theme: jekyll-theme-minimal
+
+# 你的 GitHub 用户名
+github_username: your-username
+
+# 以后可以按需要再加：
+# url: "https://your-username.github.io"
+# baseurl: ""
