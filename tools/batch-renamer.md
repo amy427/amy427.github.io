@@ -15,6 +15,9 @@ permalink: /tools/batch-renamer/
 ## 仓库与源码
 - 仓库：https://github.com/amy427/tools-lab
 - 源码：https://raw.githubusercontent.com/amy427/tools-lab/main/batch_renamer/batch_renamer.py
+- 工具目录：https://github.com/amy427/tools-lab/tree/main/batch_renamer
+- 一键运行脚本：https://raw.githubusercontent.com/amy427/tools-lab/main/batch_renamer/run_windows.bat
+
 
 ## 使用方法（Windows / Git Bash / 终端）
 查看帮助：
