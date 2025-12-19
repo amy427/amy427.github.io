@@ -1,6 +1,6 @@
 ---
 layout: page
-title:- [Tool 001：Batch Renamer（批量重命名）](/tools/batch-renamer/)
+title: Tool 001 - Batch Renamer（批量重命名）
 permalink: /tools/batch-renamer/
 ---
 
