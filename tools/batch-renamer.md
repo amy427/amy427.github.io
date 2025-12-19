@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Tool 001 - Batch Renamer（批量重命名）
-permalink: /tools/batch-renamer/
+permalink: - [Tool 001：Batch Renamer（批量重命名）](/tools/batch-renamer/)
+
 ---
 
 ## 这工具解决什么问题
