@@ -10,4 +10,7 @@ permalink: /services/
 - Word 模板批量生成（基础包）
 - 文件批处理脚本定制（基础包）
 
-联系与下单方式：先留空，今天先把页面跑通。
+联系与下单方式：
+- 先填写需求问卷：https://amy427.github.io/services/intake/
+- 然后在 tools-lab 提 Issue 提交需求（下一步会配好 Issue 模板）
+
